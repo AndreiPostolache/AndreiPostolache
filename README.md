@@ -16,7 +16,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+<img src="https://programmerhumor.io/wp-content/uploads/2022/09/programmerhumor-io-backend-memes-frontend-memes-eef31b9fc6137ed-758x415.jpg" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AndreiPostolache&icon=0&color=3)](https://visitcount.itsvg.in)
